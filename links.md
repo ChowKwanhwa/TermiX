@@ -1,0 +1,9 @@
+Twitter: https://x.com/termix_ai
+Website: https://app.termix.ai/
+Telegram: http://t.me/TermiX_AI
+Paragraph: https://paragraph.com/@termix
+Medium: https://medium.com/@TermiX_AI
+Discord: https://discord.com/invite/d7pCTtWqtE
+Link3: https://link3.to/termix
+Cofounder: https://x.com/MaxxLFG
+Github: https://github.com/TermiX-official
