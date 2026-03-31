@@ -48,7 +48,7 @@
 
 | Based (标杆)                                                                                              | TermiX (当前)                 |
 | :-------------------------------------------------------------------------------------------------------- | :---------------------------- |
-| ![Based FundRaising](based/fundraising.png) ![Based Investment](based/investment.png)                         | **[缺失数据/显示为空]** |
+| ![Based FundRaising](based/fundRaising.png) ![Based Investment](based/investment.png)                         | **[缺失数据/显示为空]** |
 | **分析**：Based 展示了详尽的融资轮次和所投项目的联动。TermiX 应至少更新战略合作伙伴或早期资方占位。 |                               |
 
 ---
@@ -93,4 +93,3 @@
    - 策划 3 月末/4 月初的行业新闻，投稿至 ChainCatcher/Foresight，并确保链接出现在 `Related News` 板块。
 3. **[中优先级] 数据占位与模型公示**
    - 补全基于白皮书的 Tokenomics 占比图。
-   - 在 RootData 详情中更新最近的合作伙伴声明。
