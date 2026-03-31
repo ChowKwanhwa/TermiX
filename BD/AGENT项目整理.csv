@@ -1,0 +1,27 @@
+项目,定位,核心功能,投资机构,是否TGE,Token,上线交易所,合作方式
+"=HYPERLINK(""https://x.com/termix_ai"",""TermiX"")",Agent OS / 执行与清算层,Skills市场、链上执行、Agent结算,YZi Labs,❌,-,-,
+"=HYPERLINK(""https://x.com/myshell_ai"",""MyShell"")",Agent创作 & 分发平台,无代码生成Agent、Agent Marketplace,Binance Labs、Dragonfly,✅,SHELL,Binance（预期）、OKX、Bybit,
+"=HYPERLINK(""https://x.com/Chain_GPT"",""ChainGPT"")",AI + Web3工具层,AI交易、合约生成、审计,未披露（社区+IDO）,✅,CGPT,Binance、KuCoin、Gate、Bybit,
+"=HYPERLINK(""https://x.com/GT_Protocol"",""GT Protocol"")",AI交易Agent协议,自动化交易、投资组合管理,DAO Maker,✅,GTAI,Bybit、KuCoin、Gate,
+"=HYPERLINK(""https://x.com/RevoxAI"",""Revox"")",AI DApp开发平台,AI应用开发、Agent工具链,未披露,❌,-,-,
+"=HYPERLINK(""https://x.com/autonomeai"",""Autonome"")",No-code Agent平台,Agent构建、模块化部署,未披露,❌,-,-,
+"=HYPERLINK(""https://x.com/whitebridge_ai"",""WhiteBridge"")",Agent网络（A2A）,Agent协作通信网络,未披露,❌,-,-,
+"=HYPERLINK(""https://x.com/HyperGPTToken"",""HyperGPT"")",AI工具 + Agent能力,自动化任务、AI工具集,未披露,✅,HGPT,Gate、MEXC,
+"=HYPERLINK(""https://x.com/AidenLabsAI"",""Aiden Labs"")",AI Agent入口,多模型聚合（Claude/GPT等）,未披露,❌,-,-,
+AIAI Society,AI人格 / Agent经济,AI Twin、人格Agent,未披露,❌,-,-,
+"=HYPERLINK(""https://x.com/SIREN_ai"",""SIREN"")",AI交易信号Agent,AI选币、自动策略,未披露,✅,SIREN,PancakeSwap,
+"=HYPERLINK(""https://x.com/virtuals_io"",""Virtuals Protocol"")",Agent商业协议（ACP）,Agent间自主发现/雇佣/支付、ERC-8004声誉、18K+ Agent部署,未披露（社区驱动）,✅,VIRTUAL,Binance、OKX、Bybit、Coinbase,联合AMA（Agent Commerce叙事）、AACP与ACP协议层集成、ERC-8004标准共建
+"=HYPERLINK(""https://x.com/autonolas"",""Autonolas (OLAS)"")",Agent原生框架,可验证AI（Proof of Inference）、DeFi Agent、预测市场Agent,未披露,✅,OLAS,Binance、Coinbase、Kraken,技术合作（Agent验证层互补）、联合研究报告
+"=HYPERLINK(""https://x.com/0xWorkHQ"",""0xWorkHQ"")",Agent任务市场,Agent注册/质押/领取任务、USDC链上托管结算,未披露,✅,AXOBOTL,Base DEX,AACP任务市场直接对标、联合AMA（Agent Work Economy）、协议层集成
+MeshLedger,Agent雇佣市场,Agent间雇佣/工作/支付、链上托管、AI争议解决、声誉系统,未披露,❌,-,-,高度契合——联合AMA（Agent Marketplace）、AACP协议层集成、争议解决机制共建
+"=HYPERLINK(""https://x.com/tempo_fi"",""Tempo"")",任务市场 + Agent Webhook,Agent任务分发、微支付、AI评判与链上争议解决,未披露,❌,-,-,任务市场+争议解决高度互补、联合AMA、技术集成
+"=HYPERLINK(""https://x.com/wardenprotocol"",""Warden Protocol"")",Agent身份与意图协议,全局可移植Agent身份/声誉、Trustless Agent Economy,未披露,❌（TGE预期Q2 2026）,-,-,ERC-8004标准共建、Agent身份层集成、联合AMA（Trustless Agent Identity）
+Billions Network,可验证Agent身份,JS-SDK链上Agent ID、所有权/声誉证明,未披露,❌（Private Beta）,-,-,Agent身份/声誉层互补、标准共建
+"=HYPERLINK(""https://x.com/ForUProtocol"",""ForU AI"")",Agent声誉平台,人类与Agent的信任评分与声誉系统,未披露,❌,-,-,声誉系统集成、AACP评估层合作
+"=HYPERLINK(""https://x.com/MultiversX"",""MultiversX"")",L1 + Agent商业层,ACP集成、链上Agent身份、多Agent协作/竞争、无Gas中继交易,Binance Labs、Electric Capital,✅,EGLD,Binance、Coinbase、Kraken、OKX,L1生态合作、AACP部署到MultiversX、联合AMA
+"=HYPERLINK(""https://x.com/OasisProtocol"",""Oasis Protocol"")",隐私计算 + TEE Agent,一键部署Trustless AI Agent到TEE安全飞地、隐私保护计算,Binance Labs、Polychain、a16z,✅,ROSE,Binance、Coinbase、KuCoin,TEE技术栈重叠、Agent执行环境合作、联合AMA（Confidential Agent Compute）
+"=HYPERLINK(""https://x.com/NEARProtocol"",""NEAR Protocol"")",Agent原生L1,Agent Market、IronClaw TEE运行时、隐私Agent计算,a16z、Pantera、DCG,✅,NEAR,Binance、Coinbase、OKX,Agent Market生态合作、TEE运行时集成、联合AMA
+"=HYPERLINK(""https://x.com/TheAIAssembly"",""TheAIAssembly"")",自治Agent治理,Agent自主提案/辩论/投票/管理共享金库（类托管）,未披露,❌,-,-,Agent治理+金库管理与AACP互补、联合AMA
+"=HYPERLINK(""https://x.com/VeryAi_"",""VeryAI"")",Agent验证层,Proof of Reality（人类vs AI Agent验证）,Polychain领投（$10M）,❌,-,-,Agent身份验证合作、Proof of Reality与AACP评估层结合
+Zodl,Agent隐私支付,zk-proof隐私钱包、Agent屏蔽交易/托管/质押,Paradigm、a16z（$25M种子轮）,❌,-,-,Agent支付/托管层集成、联合AMA（Agent Payment Privacy）
+"=HYPERLINK(""https://x.com/officialbittensor"",""Bittensor"")",去中心化AI网络,256+子网、Agent任务/推理、去中心化ML,Pantera、Digital Currency Group,✅,TAO,Binance、Coinbase、OKX、Kraken,Agent推理基础设施合作、子网集成
