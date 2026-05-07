@@ -10,11 +10,7 @@
   (function () {
     var saved;
     try { saved = localStorage.getItem('termix-lang'); } catch (e) {}
-    var lang = saved;
-    if (!lang) {
-      var nav = (navigator.language || 'en').toLowerCase();
-      lang = nav.indexOf('zh') === 0 ? 'zh' : 'en';
-    }
+    var lang = saved || 'en';
     document.documentElement.classList.add('lang-' + lang);
     document.documentElement.setAttribute('lang', lang === 'zh' ? 'zh-CN' : 'en');
   })();
